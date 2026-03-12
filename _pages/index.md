@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.7"
   overlay_image: /assets/images/Kratt.jpg
   actions:
     - label: "Download CV"
