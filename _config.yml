@@ -1,7 +1,7 @@
 # Basic site settings (edit these first)
 title: "Jay Chambers's Portfolio" # Site title shown in the browser and header
 title_separator: "-"
-subtitle: "" # site tagline that appears below site title in masthead
+
 description: "A simple portfolio starter for games students." # Short site summary
 name: "Jay Chambers"
 url: "https://the-funky-pilot.github.io/" # Your GitHub Pages domain
