@@ -1,5 +1,5 @@
 ---
-title: "Page Title"
+title: "My Portfolio"
 layout: splash
 permalink: /
 header:
@@ -12,7 +12,7 @@ header:
       target: "_blank"
 
 
-excerpt: "You can add text here."
+excerpt: "Here you can find a summary of each project i have worked on during my education"
 intro: 
   - excerpt: 'You can also add text like this....'
 feature_row:
