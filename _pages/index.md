@@ -14,7 +14,7 @@ header:
 
 excerpt: "Here you can find a summary of each project i have worked on during my education"
 intro: 
-  - excerpt: 'You can also add text like this....'
+  - excerpt: 'below are showcases of my previous work'
 feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
