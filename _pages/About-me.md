@@ -2,6 +2,7 @@
 title: "Default Layout"
 layout: default
 permalink: /pages/default/
+{% include figure image_path="/assets/images/stupidSprite.png" alt="Game Jam screenshot" caption="This is MY caption" %}
 ---
 
 This page uses the `default` layout. It is a minimal wrapper around your content.
