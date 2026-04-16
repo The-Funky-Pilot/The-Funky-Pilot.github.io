@@ -1,18 +1,18 @@
 # Basic site settings (edit these first)
-title: "Jay Portfolio" # Site title shown in the browser and header
+title: "Jay Chambers's Portfolio" # Site title shown in the browser and header
 title_separator: "-"
 subtitle: "very awesome portfolio" # site tagline that appears below site title in masthead
 description: "A simple portfolio starter for games students." # Short site summary
-name: "Therese Charles"
+name: "Jay Chambers"
 url: "https://the-funky-pilot.github.io/" # Your GitHub Pages domain
 baseurl: "" # Repo name if site is in a project repo, blank for user/org site
 locale: "en-GB" # Language/region
 logo: "/assets/images/funkiest pilot.jpg" # path of logo image to display in the masthead
-masthead_title: "Jay title" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title: "Jay Chambers" # overrides the website title displayed in the masthead, use " " for no title
 copyright: # "copyright" name, defaults to site.title
 copyright_url: # "copyright" URL, defaults to site.url
 # Theme settings (used by the existing CSS)
-minimal_mistakes_skin    : "sunrise" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 favicon: "/assets/images/favicon.png" # Favicon path (update this file)
 favicon_version: 1 # Increment to force browsers to refresh the favicon
 
