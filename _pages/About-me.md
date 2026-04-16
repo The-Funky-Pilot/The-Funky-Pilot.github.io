@@ -3,6 +3,7 @@ title: "About Me"
 layout: default
 permalink: /AboutMe/
 ---
+{% include figure image_path="/assets/images/stupiderSprite.png" alt="Game Jam screenshot" caption="This is MY caption" %}
 
 This page uses the `default` layout. It is a minimal wrapper around your content.
 You can use it for simple pages where you want full control over the markup.
@@ -13,7 +14,6 @@ You can use it for simple pages where you want full control over the markup.
   button_label="Download Project Proposal"
   download="Project-proposal.pdf"
 %}
-{% include figure image_path="/assets/images/stupiderSprite.png" alt="Game Jam screenshot" caption="This is MY caption" %}
 
 {% include google-form
   title="Contact Me"
