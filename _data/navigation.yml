@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "About Me"
-    url: /AboutMe/
   - title: "Home"
     url: /
+  - title: "About Me"
+    url: /AboutMe/
   - title: "Projects"
     url: /projects/
     children:
