@@ -8,8 +8,10 @@ header:
   overlay_image: /assets/images/cvPhoto.jpg
   actions:
     - label: "Download CV"
-      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+      url: "/assets/downloads/Jay-Chambers-B01031875-CRE136.pdf"
       target: "_blank"
+
+ 
 
 
 excerpt: "Here you can find a summary of each project i have worked on during my education"
