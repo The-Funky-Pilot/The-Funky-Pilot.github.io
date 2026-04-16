@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
     title: "3D Project"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "example."
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
     title: "Boardgame"
