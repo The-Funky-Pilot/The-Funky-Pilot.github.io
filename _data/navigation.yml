@@ -9,6 +9,8 @@ main:
         url: /projects/game-jam/
       - title: "Capstone"
         url: /projects/capstone/
+  - title: "About Me"
+    url: /AboutMe/
   - title: "Pages"
     url: /pages/
     children:
@@ -20,8 +22,7 @@ main:
         url: /pages/splash/
   - title: "Components"
     url: /components/
-    - title: "About Me"
-    url: /AboutMe/
+  
  
 
 # Sidebar menu for the Projects page
