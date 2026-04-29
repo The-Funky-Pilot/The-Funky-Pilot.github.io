@@ -9,7 +9,7 @@ sidebar:
 gallery-2DProject:
     url: /assets/images/2DGallery/
     image_path: /assets/images/2DGallery/
-    alt "2D-Artwork"
+    alt: "2D-Artwork"
     title: "Starry Night Artwork"
     caption: "Starry Night Artwork"
 ---
