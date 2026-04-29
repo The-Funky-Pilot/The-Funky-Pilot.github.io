@@ -26,6 +26,16 @@ gallery_2DProject:
     alt: "2D-enemy"
     title: "Starry Night enemy sprite"
     caption: "Starry eveny sprite"
+  - url: /extraArtFolder/sillyAttack.png
+    image_path: /extraArtFolder/sillyAttack.png
+    alt: "2D-attack"
+    title: "Starry Night attack sprite"
+    caption: "Starry attack sprite"
+ - url: /extraArtFolder/star drop.png
+    image_path: /extraArtFolder/star drop.png
+    alt: "2D-pickup"
+    title: "Starry Night pickup sprite"
+    caption: "Starry pickup sprite"
 ---
 <h2>My first 2D project made in Unity</h2>
 
