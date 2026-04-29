@@ -11,8 +11,8 @@ main:
         url: /projects/3d-project/
       - title: "Game Jam"
         url: /projects/game-jam/
-      - title: "Capstone"
-        url: /projects/capstone/
+      - title: "2D Game"
+        url: /projects/projects-2D/
   - title: "Pages"
     url: /pages/
     children:
@@ -33,8 +33,8 @@ projects:
     url: /projects/3d-project/
   - title: "Game Jam"
     url: /projects/game-jam/
-  - title: "Capstone"
-    url: /projects/capstone/
+  - title: "2D Game"
+    url: /projects/projects-2D/
 
 # Sidebar menu for the Pages page
 pages:
