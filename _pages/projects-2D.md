@@ -27,9 +27,15 @@ gallery_2DProject:
     title: "Starry Night enemy sprite"
     caption: "Starry eveny sprite"
 ---
+<h2>My first 2D project made in Unity</h2>
+
 <p>
 My 2D Game titled Starry Night is a platforming game was the first 2D project i made in university and also my first ever project i ever made in unity
+
 
 I did all the sprite work for the game, my goal was to create a game with cute and graphics and a simple but fun gimmick and i feel asthough i succeeded
 </p>
 {% include gallery id="gallery_2DProject" layout="third" thumb_height="180px" %}
+
+<div style="flex:1 1 150px; min-width:150px;">
+{% include video id="6_xJOgoYBjQ" provider="youtube" %}
