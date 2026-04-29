@@ -21,11 +21,11 @@ feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
     title: "3D Project"
-    excerpt: ""
+    excerpt: "A 3D project I made for university, you play as a man living in a shipping container in a post apocolyptic world."
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
     title: "Boardgame"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "A boardgame I made during university based around the imaginative combat of tabletop roleplaying games"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
