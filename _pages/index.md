@@ -21,18 +21,18 @@ feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
     title: "3D Project"
-    excerpt: "example."
+    excerpt: "A 3D project i made where you play as a man living in a shipping container, set in a post apocolyptic world."
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
     title: "Boardgame"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "A boardgame i made in university based on the concept  of "the rule of cool" often used in roleplaying games"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 4"
-    title: "3D Game"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    title: "2D Game"
+    excerpt: "A 2D platforming game I made in university, you play as a star boy collecting keys and exploring space."
 ---
 
 {% include feature_row id="intro" type="center" %}
