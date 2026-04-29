@@ -9,8 +9,8 @@ main:
     children:
       - title: "3D Project"
         url: /projects/3d-project/
-      - title: "Game Jam"
-        url: /projects/game-jam/
+      - title: "Board Game"
+        url: /projects/BoardGame/
       - title: "2D Game"
         url: /projects/projects-2D/
   - title: "Pages"
@@ -31,8 +31,8 @@ main:
 projects:
   - title: "3D Project"
     url: /projects/3d-project/
-  - title: "Game Jam"
-    url: /projects/game-jam/
+  - title: "Board Game"
+    url: /projects/BoardGame/
   - title: "2D Game"
     url: /projects/projects-2D/
 
