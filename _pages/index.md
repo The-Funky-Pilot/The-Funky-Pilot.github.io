@@ -29,7 +29,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/2dGamescreenshot.png
+  - image_path: /extraArtFolder/newScreenS.png
     alt: "placeholder image 4"
     title: "2D Game"
     excerpt: "A 2D platforming game I made in university, you play as a star boy collecting keys and exploring space."
