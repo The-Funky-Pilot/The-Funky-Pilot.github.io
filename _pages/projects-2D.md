@@ -11,7 +11,7 @@ gallery_2DProject:
     image_path: /assets/images/2DGallery/silly fella moving.png/
     alt: "2D-Artwork"
     title: "Starry Night movement sprites"
-    caption: "Starry Night movement sprites"
+    caption: "Starry Night movement sprites"  
      url: /assets/images/2DGallery/starDoor.png/
     image_path: /assets/images/2DGallery/starDoor.png/
     alt: "2D-Artwork"
