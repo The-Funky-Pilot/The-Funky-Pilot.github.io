@@ -22,7 +22,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "3D Project"
     excerpt: "A 3D project I made for university, you play as a man living in a shipping container in a post apocolyptic world."
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/BoardgameScreenshot.png
     alt: "placeholder image 2"
     title: "Boardgame"
     excerpt: "A boardgame I made during university based around the imaginative combat of tabletop roleplaying games"
