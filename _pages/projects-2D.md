@@ -46,6 +46,7 @@ My 2D Game titled Starry Night is a platforming game was the first 2D project i 
 <p>
   To make this game I used c# to code within Unity, for the creation of sprites and other assets i used a combination of Krita and Libresprite
 </p>
+
 {% include gallery id="gallery_2DProject" layout="third" thumb_height="180px" %}
 
 <div style="flex:1 1 150px; min-width:150px;">
