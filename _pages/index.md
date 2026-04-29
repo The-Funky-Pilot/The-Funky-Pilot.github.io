@@ -18,7 +18,7 @@ excerpt: "Here you can find a summary of each project i have worked on during my
 intro: 
   - excerpt: 'below are showcases of my previous work'
 feature_row:
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/3dgameScreenshot.png
     alt: "placeholder image 1"
     title: "3D Project"
     excerpt: "A 3D project I made for university, you play as a man living in a shipping container in a post apocolyptic world."
@@ -29,7 +29,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/placeholder.png
+  - image_path: /assets/images/2dGamescreenshot.png
     alt: "placeholder image 4"
     title: "2D Game"
     excerpt: "A 2D platforming game I made in university, you play as a star boy collecting keys and exploring space."
