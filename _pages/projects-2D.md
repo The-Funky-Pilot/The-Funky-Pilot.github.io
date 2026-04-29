@@ -6,7 +6,7 @@ sidebar:
   title: "Projects"
   nav:
     - projects
-gallery-2DProject:
+gallery_2DProject:
     url: /assets/images/2DGallery/silly fella moving.png/
     image_path: /assets/images/2DGallery/silly fella moving.png/
     alt: "2D-Artwork"
