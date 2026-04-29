@@ -21,7 +21,7 @@ feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 1"
     title: "3D Project"
-    excerpt: "A 3D project i made where you play as a man living in a shipping container, set in a post apocolyptic world."
+    excerpt: ""
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
     title: "Boardgame"
