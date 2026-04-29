@@ -31,7 +31,7 @@ gallery_2DProject:
     alt: "2D-attack"
     title: "Starry Night attack sprite"
     caption: "Starry attack sprite"
- - url: /extraArtFolder/star drop.png
+  - url: /extraArtFolder/star drop.png
     image_path: /extraArtFolder/star drop.png
     alt: "2D-pickup"
     title: "Starry Night pickup sprite"
