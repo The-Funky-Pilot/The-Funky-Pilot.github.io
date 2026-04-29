@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
     title: "Boardgame"
-    excerpt: "A boardgame i made in university based on the concept  of "the rule of cool" often used in roleplaying games"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
