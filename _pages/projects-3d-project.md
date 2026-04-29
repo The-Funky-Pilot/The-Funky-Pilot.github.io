@@ -38,7 +38,17 @@ gallery_3DProject:
     title: "2D Cave"
     caption: "2D Cave" 
 ---
-{% include gallery id="gallery_2DProject" layout="third" thumb_height="180px" %}
+<h2>My first 3D project in Unity</h2>
+
+<p>
+  This is my un-named 3D project that I made for university as a example of world building and modelling within Unity. My goal when making this project was to make and intresting and bleak world using visuals and models
+</p>
+
+<p>
+  This project was made mostly within Unity using the add-on ProBuilder that lets to make simple render withing Unity, I also used some free models from the unity store and for the small amount of artwork in the game I used Krita
+</p>
+
+{% include gallery id="gallery_3DProject" layout="third" thumb_height="180px" %}
 
 This page is another project page that is nested within Projects.
 
