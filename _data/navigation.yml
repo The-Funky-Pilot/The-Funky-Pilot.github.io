@@ -7,6 +7,8 @@ main:
   - title: "Projects"
     url: /projects/
     children:
+      -title: "3D Project"
+       url: /projects/3d-project/
       - title: "Game Jam"
         url: /projects/game-jam/
       - title: "Capstone"
