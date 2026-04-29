@@ -7,22 +7,22 @@ sidebar:
   nav:
     - projects
 gallery_2DProject:
-    url: /assets/images/2DGallery/silly fella moving.png/
+  - url: /assets/images/2DGallery/silly fella moving.png/
     image_path: /assets/images/2DGallery/silly fella moving.png/
     alt: "2D-Artwork"
     title: "Starry Night movement sprites"
     caption: "Starry Night movement sprites"  
-     url: /assets/images/2DGallery/starDoor.png/
+  - url: /assets/images/2DGallery/starDoor.png/
     image_path: /assets/images/2DGallery/starDoor.png/
     alt: "2D-Artwork"
     title: "Starry Night door sprite"
     caption: "Starry Night door sprite"
-     url: /assets/images/2dGamescreenshot.png/
+  - url: /assets/images/2dGamescreenshot.png/
     image_path: /assets/images/2dGamescreenshot.png/
     alt: "2D-Artwork"
     title: "Starry Night gameplay"
     caption: "Starry Night gameplay"
-     url: /assets/images/2DGallery/starAlien.png/
+  - url: /assets/images/2DGallery/starAlien.png/
     image_path: /assets/images/2DGallery/starAlien.png/
     alt: "2D-Artwork"
     title: "Starry Night enemy sprite"
