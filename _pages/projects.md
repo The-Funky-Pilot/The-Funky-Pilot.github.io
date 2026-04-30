@@ -7,11 +7,13 @@ sidebar:
   nav:
     - projects
 ---
+<h2> 
+  My Projects
+</h2>
 
-Welcome to the projects page. This is where you can list your game projects.
-
-You can use this page to show a reel of all projects and then have a separate page for each project.
-
+<p>
+  This is my project showcase, here you can use the sidebar to navigate to showcases of my largest projects to date.
+</p>
 
 
 
