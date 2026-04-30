@@ -1,21 +1,17 @@
 ---
-title: "Default Layout"
+title: "Contact Me"
 layout: default
-permalink: /pages/default/
+permalink: /pages/ContactMe/
 ---
-
-This page uses the `default` layout. It is a minimal wrapper around your content.
-You can use it for simple pages where you want full control over the markup.
-
-{% include download
-  title="Download my Project Proposal"
-  url="/assets/downloads/Project-proposal.pdf"
-  button_label="Download Project Proposal"
-  download="Project-proposal.pdf"
-%}
+<h2>
+  Contact Me
+</h2>
+<p>
+  want to get in touch with me or ask a question? just fill in this form and I'll respond.
+</p>
 
 {% include google-form
   title="Contact Me"
-  src="https://forms.gle/XsbApFoRjn7r24jy6"
+  src="https://forms.gle/XVE9i3LQ79UHr53s8"
   height="800"
 %}
