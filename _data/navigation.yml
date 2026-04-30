@@ -17,7 +17,8 @@ main:
         url: /projects/BoardGame/
       - title: "2D Game"
         url: /projects/projects-2D/
-
+  - title: "Contact Me"
+    url: /pages/ContactMe/
   
  
 
