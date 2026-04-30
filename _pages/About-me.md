@@ -14,7 +14,7 @@ skills:
     text: "Designed mechanics, levels, and player feedback loops."
     years: 3
     level_label: "Beginner"
-   - name: "Teamwork"
+  - name: "Teamwork"
     text: "works well in groups, effective communication, Leadership"
     years: 3
     level_label: "Intermediate"
