@@ -48,7 +48,7 @@ gallery_BGProject:
   This project was made mostly within Unity using the add-on ProBuilder that lets to make simple render withing Unity, I also used some free models from the unity store and for the small amount of artwork in the game I used Krita
 </p>
 
-{% include gallery id="gallery_3DProject" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_BGProject" layout="third" thumb_height="180px" %}
 
 <div style="flex:1 1 150px; min-width:150px;">
 {% include video id="DoCdcoyOVys" provider="youtube" %}
