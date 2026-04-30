@@ -15,7 +15,8 @@ skills:
     years: 3
     level_label: "Beginner"
   - name: "Teamwork"
-    text: "works well in groups, effective communication, Leadership"
+    badges: ["Group dynamics", "Communication", "Leadership"]
+    text: "Has worked well in teams as a follower and a leader"
     years: 3
     level_label: "Intermediate"
 ---
