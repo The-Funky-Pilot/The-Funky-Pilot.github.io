@@ -41,7 +41,7 @@ gallery_BGProject:
 <h2>My Boardgame Project</h2>
 
 <p>
-  This is the board game I made titled "the Rule of Cool" its a board game centered around the concept of imaginative fights that happens during tabletop roleplaying games. 
+  This is the board game I made titled "the Rule of Cool" its is a board game centered around the concept of imaginative fights that happens in the minds of the players during tabletop roleplaying games, Hoping to emulate the fun of those same fights but in much smaller and faster play sessions.
 </p>
 
 <p>
