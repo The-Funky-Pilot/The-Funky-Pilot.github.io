@@ -11,32 +11,32 @@ gallery_BGProject:
     image_path: /extraArtFolder/BGcharBack.png
     alt: "BG-charback"
     title: "BGcharback"
-    caption: "BGcharback"
+    caption: "Fighter card descriptions"
   - url: /extraArtFolder/BGcharCards.png
     image_path: /extraArtFolder/BGcharCards.png
     alt: "BG-char"
     title: "BGchar"
-    caption: "BGchar"
+    caption: "Fighter cards"
   - url: /extraArtFolder/BGitemBack.png
     image_path: /extraArtFolder/BGitemBack.png
     alt: "BG-itemback"
     title: "BGitemback"
-    caption: "BGitemback"
+    caption: "Item card descriptions"
   - url: /extraArtFolder/BGitemCards.png
     image_path: /extraArtFolder/BGitemCards.png
     alt: "BG-item"
     title: "BGitem"
-    caption: "BGitem"
+    caption: "Item cards"
   - url: /extraArtFolder/BGlocationBack.png
     image_path: /extraArtFolder/BGlocationBack.png
     alt: "BG-locaback"
     title: "BGlocaback"
-    caption: "BGlocaback"
+    caption: "Location card descriptions"
   - url: /extraArtFolder/BGlocationCards.png
     image_path: /extraArtFolder/BGlocationCards.png
     alt: "BG-loca"
     title: "BGloca"
-    caption: "BGloca" 
+    caption: "Locations cards" 
 ---
 <h2>My Boardgame Project</h2>
 
