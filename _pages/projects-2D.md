@@ -40,7 +40,7 @@ gallery_2DProject:
 <h2>My first 2D project made in Unity</h2>
 
 <p>
-My 2D Game titled Starry Night is a platforming game was the first 2D project i made in university and also my first ever project i ever made in unity. my goal was to create a game with cute and graphics and a simple but fun gimmick and i feel as though i succeeded
+My 2D Game titled Starry Night is a platforming game was the first 2D project i made in university and also my first ever project i ever made in unity. my goal was to create a game with cute and graphics and a simple but fun gimmick in the form of every platform being slipperly like ice and i feel as though i succeeded
 </p>
 
 <p>
