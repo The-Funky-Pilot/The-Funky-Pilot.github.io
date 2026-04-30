@@ -9,6 +9,8 @@ main:
     children:
       - title: "3D Project"
         url: /projects/3d-project/
+      - title: "Group Project"
+        url: /projects/projects-GP/
       - title: "Board Game"
         url: /projects/BoardGame/
       - title: "2D Game"
