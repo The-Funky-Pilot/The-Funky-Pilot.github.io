@@ -48,4 +48,4 @@ This is my first game made in a group project, while i didnt do much of the codi
   To make this game I mostly used libresprite for the final sprites and krita for sketches. the final game was put together in Unity.
 </p>
 
-{% include gallery id="gallery_2DProject" layout="third" thumb_height="180px" %}
+{% include gallery id="gallery_GPProject" layout="third" thumb_height="180px" %}
