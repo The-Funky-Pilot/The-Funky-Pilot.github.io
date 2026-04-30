@@ -14,11 +14,6 @@ skills:
     text: "Designed mechanics, levels, and player feedback loops."
     years: 3
     level_label: "Beginner"
-  - name: "Teamwork"
-    badges: ["Group dynamics", "Communication", "Leadership"]
-    text: "Has worked well in teams as a follower and a leader"
-    years: 3
-    level_label: "Intermediate"
 ---
 {% include figure image_path="/assets/images/stupidSprite.png" alt="Game Jam screenshot" caption="" %}
 
