@@ -11,7 +11,6 @@ permalink: /pages/ContactMe/
 </p>
 
 {% include google-form
-  title="Contact Me"
   src="https://forms.gle/XVE9i3LQ79UHr53s8"
   height="800"
 %}
