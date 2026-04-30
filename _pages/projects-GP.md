@@ -41,7 +41,7 @@ gallery_GPProject:
 <h2>My first group project</h2>
 
 <p>
-This is my first game made in a group project, while i didnt do much of the coding i did a large majority of the artwork that made it into the final game. 
+This is my first game made in a group project during universit, while i didnt do much of the coding i did a large majority of the artwork that made it into the final game, including enemy sprites, UI designs, HUD designs, Main Menu art and background artwork
 </p>
 
 <p>
