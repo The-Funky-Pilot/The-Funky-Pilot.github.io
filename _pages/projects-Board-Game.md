@@ -7,36 +7,36 @@ sidebar:
   nav:
     - projects
 gallery_BGProject:
-  - url: /extraArtFolder/3D containers.png
-    image_path: /extraArtFolder/3D containers.png
-    alt: "2D-Container"
-    title: "2D Container"
-    caption: "2D Container"
-  - url: /extraArtFolder/3Dbomb.png
-    image_path: /extraArtFolder/3Dbomb.png
-    alt: "3D-Bomb"
-    title: "3D Bomb"
-    caption: "3D Bomb"
-  - url: /extraArtFolder/3Dwaterfall.png
-    image_path: /extraArtFolder/3Dwaterfall.png
-    alt: "3D-Waterfall"
-    title: "3D-Waterfall"
-    caption: "3D-Waterfall"
-  - url: /extraArtFolder/3Dcactus.png
-    image_path: /extraArtFolder/3Dcactus.png
-    alt: "3D-Cactus"
-    title: "3D Cactus"
-    caption: "3D Cactus"
-  - url: /extraArtFolder/3Dentrance.png
-    image_path: /extraArtFolder/3Dentrance.png
-    alt: "3D-Entrance"
-    title: "3D Entrance"
-    caption: "3D Entrance"
-  - url: /extraArtFolder/3Dcave.png
-    image_path: /extraArtFolder/3Dcave.png
-    alt: "2D-Cave"
-    title: "2D Cave"
-    caption: "2D Cave" 
+  - url: /extraArtFolder/BGcharBack.png
+    image_path: /extraArtFolder/BGcharBack.png
+    alt: "BG-charback"
+    title: "BGcharback"
+    caption: "BGcharback"
+  - url: /extraArtFolder/BGcharCards.png
+    image_path: /extraArtFolder/BGcharCards.png
+    alt: "BG-char"
+    title: "BGchar"
+    caption: "BGchar"
+  - url: /extraArtFolder/BGitemBack.png
+    image_path: /extraArtFolder/BGitemBack.png
+    alt: "BG-itemback"
+    title: "BGitemback"
+    caption: "BGitemback"
+  - url: /extraArtFolder/BGitemCards.png
+    image_path: /extraArtFolder/BGitemCards.png
+    alt: "BG-item"
+    title: "BGitem"
+    caption: "BGitem"
+  - url: /extraArtFolder/BGlocationBack.png
+    image_path: /extraArtFolder/BGlocationBack.png
+    alt: "BG-locaback"
+    title: "BGlocaback"
+    caption: "BGlocaback"
+  - url: /extraArtFolder/BGlocationCards.png
+    image_path: /extraArtFolder/BGlocationCards.png
+    alt: "BG-loca"
+    title: "BGloca"
+    caption: "BGloca" 
 ---
 <h2>My first 3D project in Unity</h2>
 
