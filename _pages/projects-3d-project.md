@@ -50,5 +50,6 @@ gallery_3DProject:
 
 {% include gallery id="gallery_3DProject" layout="third" thumb_height="180px" %}
 
-This page is another project page that is nested within Projects.
+<div style="flex:1 1 150px; min-width:150px;">
+{% include video id="DoCdcoyOVys" provider="youtube" %}
 
