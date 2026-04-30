@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Contact Me"
+    url: /pages/ContactMe/
   - title: "About Me"
     url: /AboutMe/
   - title: "Projects"
