@@ -38,19 +38,17 @@ gallery_BGProject:
     title: "BGloca"
     caption: "BGloca" 
 ---
-<h2>My first 3D project in Unity</h2>
+<h2>My Boardgame Project</h2>
 
 <p>
-  This is my un-named 3D project that I made for university as a example of world building and modelling within Unity. My goal when making this project was to make and intresting and bleak world using visuals and models
+  This is the board game I made titled "the Rule of Cool" its a board game centered around the concept of imaginative fights that happens during tabletop roleplaying games. 
 </p>
 
 <p>
-  This project was made mostly within Unity using the add-on ProBuilder that lets to make simple render withing Unity, I also used some free models from the unity store and for the small amount of artwork in the game I used Krita
+  I made all the art and the layout of these cards, to do this i used Krita both to draw the artwork, make the layouts, write the text and get them ready to be printed, when printed they were simply glued to pieces of card
 </p>
 
 {% include gallery id="gallery_BGProject" layout="third" thumb_height="180px" %}
 
-<div style="flex:1 1 150px; min-width:150px;">
-{% include video id="DoCdcoyOVys" provider="youtube" %}
 ---
-This is a project page that is a child of Projects. Take a look at `projects-game-jam.md`to how see the sidebar key displays the nested navigation. 
+
