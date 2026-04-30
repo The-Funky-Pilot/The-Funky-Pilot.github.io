@@ -26,7 +26,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Boardgame"
     excerpt: "A boardgame I made during university based around the imaginative combat of tabletop roleplaying games"
-    url: "#test-link"
+    url: "/projects/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /extraArtFolder/newScreenS.png
