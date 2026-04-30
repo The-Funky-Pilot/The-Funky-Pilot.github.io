@@ -37,6 +37,8 @@ projects:
     url: /projects/BoardGame/
   - title: "2D Game"
     url: /projects/projects-2D/
+  - title: "Group Project"
+    url: /projects/projects-GP/
 
 # Sidebar menu for the Pages page
 pages:
