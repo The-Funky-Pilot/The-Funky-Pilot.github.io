@@ -6,13 +6,18 @@ skills:
   - name: "Unity"
     icon: "fab fa-fw fa-unity"
     badges: ["C#", "Game Dev"]
-    text: "Built multiple prototypes and a published jam game."
-    years: 2
+    text: "Built multiple prototypes and completed Projects"
+    years: 1
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
     badges: ["Game Mechanics", "Levels", "UI"]
     text: "Designed mechanics, levels, and player feedback loops."
+    years: 3
     level_label: "Beginner"
+   - name: "Teamwork"
+    text: "works well in groups, effective communication, Leadership"
+    years: 3
+    level_label: "Intermediate"
 ---
 {% include figure image_path="/assets/images/stupidSprite.png" alt="Game Jam screenshot" caption="" %}
 
