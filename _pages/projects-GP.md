@@ -11,32 +11,32 @@ gallery_GPProject:
     image_path: /extraArtFolder/GPenemy.gif
     alt: "GP-enemy"
     title: "GPenemy"
-    caption: "GPenemy"  
+    caption: "Xylem sprite"  
   - url: /extraArtFolder/GPenemy2.png
     image_path: /extraArtFolder/GPenemy2.png
     alt: "GP-enemy2"
     title: "GPenemy2"
-    caption: "GPenemy2"
+    caption: "Xylem Jockey sprite"
   - url: /extraArtFolder/GPhealth.png
     image_path: /extraArtFolder/GPhealth.png
     alt: "GP-health"
     title: "GPhealth"
-    caption: "GPhealth"
+    caption: "Healthbar"
   - url: /extraArtFolder/GPlayout.png
     image_path: /extraArtFolder/GPlayout.png
     alt: "GP-layout"
     title: "GPlayout"
-    caption: "GPlayout"
+    caption: "Ingame screenshot"
   - url: /extraArtFolder/GPmain.png
     image_path: /extraArtFolder/GPmain.png
     alt: "GP-main"
     title: "GPmain"
-    caption: "GPmain"
+    caption: "Main menu screen"
   - url: /extraArtFolder/GPshop.png
     image_path: /extraArtFolder/GPshop.png
     alt: "GP-shop"
     title: "GPshop"
-    caption: "GPshop"
+    caption: "Shop background"
 ---
 <h2>My first group project</h2>
 
