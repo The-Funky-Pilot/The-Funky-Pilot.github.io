@@ -1,4 +1,5 @@
 ---
+title: "Group Project"
 layout: single
 permalink: /projects/projects-GP/
 sidebar:
