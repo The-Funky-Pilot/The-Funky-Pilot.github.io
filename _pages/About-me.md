@@ -29,16 +29,3 @@ skills:
 </p>
 
 {% include skills skills=page.skills %}
-
-{% include download
-  title="Download my Project Proposal"
-  url="/assets/downloads/Project-proposal.pdf"
-  button_label="Download Project Proposal"
-  download="Project-proposal.pdf"
-%}
-
-{% include google-form
-  title="Contact Me"
-  src="https://forms.gle/XVE9i3LQ79UHr53s8"
-  height="800"
-%}
